@@ -1,0 +1,8 @@
+{
+  "name": "AI moxing",
+  "description": "A professional-grade multi-chain crypto selection system powered by Gemini AI, featuring real-time smart money alerts, technical analysis, and price prediction models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
